@@ -2,4 +2,4 @@
 
 Универсальная сетка на LESS. 
 
-[Подробнее](http://w3code.me/grid-system-for-less/)
+[Подробнее](http://bizikov.ru/blog/grid-system-fo-less/)
